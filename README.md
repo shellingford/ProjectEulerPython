@@ -1,2 +1,3 @@
 # ProjectEulerPython
-Project Euler solutions in Python
+
+Some of Project Euler solutions in Python as I'm slowly learning it from scratch.
